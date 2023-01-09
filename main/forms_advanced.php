@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="en">
 
 <!-- Mirrored from investx-admin-template.multipurposethemes.com/New_InvestX-main-files/html/template/vertical-light/main/forms_advanced.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jan 2023 07:22:50 GMT -->
