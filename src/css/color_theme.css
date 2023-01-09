@@ -846,10 +846,10 @@ Theme Primary Color
   background-color: #46bc5c;
   border-color: #46bc5c;
   color: #ffffff; }
-  .theme-primary .btn-primary:hover, .theme-primary .btn-primary:active, .theme-primary .btn-primary:focus, .theme-primary .btn-primary.active {
+  /* .theme-primary .btn-primary:hover, .theme-primary .btn-primary:active, .theme-primary .btn-primary:focus, .theme-primary .btn-primary.active {
     background-color: #733aeb !important;
     border-color: #733aeb !important;
-    color: #ffffff !important; }
+    color: #ffffff !important; } */
   .theme-primary .btn-primary:disabled {
     background-color: #733aeb;
     border-color: #733aeb;
